@@ -1,0 +1,28 @@
+body{
+	background:#fdd6f9;	
+	}
+
+h1{
+	font-family: "Raleway", sans-serif;
+	font-weight:bold;
+	}
+	
+h4,p{
+	font-family: "Lora", serif;
+	}
+
+.me{
+	width:140px;
+	}
+
+.mar{
+	margin-top:10px;
+	}
+
+.myCursor{
+	cursor:pointer;
+	}
+
+.k1
+{
+}
